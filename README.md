@@ -71,7 +71,7 @@ python data_analysis.py
 ![Trend Analizi](grafikler/ana_veri_mevsimsel_bilesenler.png)
 
 ### Günlük, Haftalık ve Aylık Sıcaklık Ortalamaları
-![Ortalamalar](grafikler/ortalama degerler.png)
+![Ortalamalar](grafikler/ortalama_degerler.png)
 
 ## Loglama
 - Tüm işlemler ve hatalar `weather_data_log.txt` dosyasına kaydedilir.

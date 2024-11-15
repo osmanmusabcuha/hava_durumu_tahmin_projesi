@@ -68,10 +68,10 @@ python data_analysis.py
 
 ## Örnek Görselleştirmeler
 ### Eğilim, Mevsimsellik ve Artık Analizi
-![Trend Analizi](example_trend_analysis.png)
+![Trend Analizi](grafikler/ana_veri_mevsimsel_bilesenler.jpg)
 
 ### Günlük, Haftalık ve Aylık Sıcaklık Ortalamaları
-![Ortalamalar](example_averages.png)
+![Ortalamalar](grafikler/ortalama degerler.jpg)
 
 ## Loglama
 - Tüm işlemler ve hatalar `weather_data_log.txt` dosyasına kaydedilir.
